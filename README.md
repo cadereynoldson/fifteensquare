@@ -6,10 +6,10 @@ A breif overview of the 15 square problem:
 - The goal of the game is to get the squares into this final shape: 
 <pre>
 <br />
-1  2  3  4          1  2  3  4 <br />
-5  6  7  8    OR    5  6  7  8 <br />
-9  A  B  C          9  A  B  C <br />
-D  E  F             D  F  E  <br />
+1  2  3  4                1  2  3  4 <br />
+5  6  7  8       OR       5  6  7  8 <br />
+9  A  B  C                9  A  B  C <br />
+D  E  F                   D  F  E  <br />
 </pre>
 
 - Contains the following algorithms for solving the fifteen square problem: 
